@@ -88,8 +88,7 @@ Visual Studio:
 6. Запустить: Debug → Start Without Debugging (Ctrl+F5)
 
 Командная строка (MinGW / GCC):
-  
-```bash  
+ 
 gcc -Wall -std=c11 main.c hashtable.c set.c multiset.c -o hashtest.exe  
 hashtest.exe
 
